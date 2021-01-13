@@ -12,16 +12,5 @@ public class Main {
        yes = input.next();
            }while(yes.equalsIgnoreCase("yes"));}
 
-    /* wow man fuck java
-    *
-    * I don't understand why this
-    * has to be complicated
-    * for the hell of it
-    * but whatever
-    *
-    * At least it isn't VB.. everytime
-    * I hit 'enter' to auto-complete something
-    * it drops to the next line.
-    * I'm pissed.
-    * */
+    // wow man fuck java
 }
